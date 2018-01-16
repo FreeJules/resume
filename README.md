@@ -31,10 +31,13 @@ SRE Recruiter, LinkedIn								May 2015 – Nov 2016
 - searched for candidates, conducted phone screens and technical quizzes
 - POC for Data Operations SRE team: supported 6 different managers, ran weekly meetings
 - positions included: Hadoop SRE, MySql SRE, Security SRE
+
 Sourcer, Brocade									Jan 2014 – May 2015
 - recruited for Brocade's Software Networking Group (Vyatta acquisition)
 - positions included: Linux Kernel Developer, Release Engineer, Openstack/OpenDaylight Engineer
+
 Talent Sourcer, Modis								May 2013 – Jan 2014
 - recruited for contract positions of  Modis’ biggest healthcare client Kaiser Permanente
+
 Technical Sourcer/Sourcer Trainee, Duran HCP					Dec 2012 – Apr 2013
 - completed 4 week intensive Certification program and sourced for Android and iOS Developers
