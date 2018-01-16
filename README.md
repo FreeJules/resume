@@ -3,27 +3,30 @@ Livermore, CA   |   julijalee@gmail.com   |   LinkedIn   |   GitHub   |   Twitte
 
 ### Education
 
-Bachelor of Science in Computer Science, California State University East Bay, Hayward, CA, graduated Dec 2011
-Full Stack Software Engineer Student, Holberton School, San Francisco, CA, Jan 2017 – Present
+#### Bachelor of Science in Computer Science
+California State University East Bay, Hayward, CA, graduated Dec 2011
+#### Full Stack Software Engineer Student
+Holberton School, San Francisco, CA, Jan 2017 – Nov 2017
 
 ### Projects
 
-[XenCloud project]() is a private cloud created by utilizing old hardware and installing Xen Project bare metal hypervisor to create and run virtual machines. Virtual machines can be accessed remotely but they have to be created on site.
+[XenCloud project](https://www.facebook.com/HolbertonSchool/videos/1911507729167724/) is a private cloud created by utilizing old hardware and installing Xen Project bare metal hypervisor to create and run virtual machines. Virtual machines can be accessed remotely but they have to be created on site.
 - Goal:	understanding how cloud and virtual machines work, improving troubleshooting and sysadmin skills, utilizing old hardware
 - Tools:	Debian Kernel 9.2, Xen Project Hypervisor 4.8, Ubuntu 16.04 VMs - Xenial
 
-[AirBnB project]() is intended to replicate the AirBnB web application. It includes Back End, Front End, storage (file and database), Web Framework and API. I configured the infrastructure with three physical servers (two NginX web servers, one HAProxy load balancer) and subsequently deployed the application.
+[AirBnB project](https://github.com/FreeJules/AirBnB_clone_v4) is intended to replicate the AirBnB web application. It includes Back End, Front End, storage (file and database), Web Framework and API. I configured the infrastructure with three physical servers (two NginX web servers, one HAProxy load balancer) and subsequently deployed the application.
 - Goal:	understanding Object Oriented Programming and connecting all the individual pieces into one
 - Tools:	Linux, Python, HTML, CSS, Flask, MySQL, SQLAlchemy, NginX, HAProxy, Puppet, Fabric, bash, git
 
-[Shell project]() is intended to replicate UNIX command line interpreter. Functions used are recreated functions of the standard library.
+[Shell project](https://github.com/FreeJules/simple_shell) is intended to replicate UNIX command line interpreter. Functions used are recreated functions of the standard library.
 - Goal:	understanding of what happens when you type a command in the shell
 - Tools:	Linux, C, bash, git
 
-[Monty project]() is an interpreter that compiles Monty bytecode files. 
+[Monty project](https://github.com/kjowong/monty) is an interpreter that compiles Monty bytecode files. 
 - Goal:	understanding the difference between stack and queue through use of linked lists
 - Tools:	Linux, C, bash, git
-[Printf project]() is intended to replicate the printf function in C.
+
+[Printf project](https://github.com/FreeJules/printf) is intended to replicate the printf function in C.
 - Goal:	understanding variadic functions
 - Tools:	Linux, C, bash, git
 
