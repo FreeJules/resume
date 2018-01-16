@@ -1,5 +1,5 @@
 ## Julija Lee
-Livermore, CA   |   julijalee@gmail.com   |   LinkedIn   |   GitHub   |   Twitter
+Livermore, CA   |   julijalee@gmail.com   |   [LinkedIn](https://www.linkedin.com/in/julija-lee-44b10746/)   |   [Twitter](https://twitter.com/LeeJulija)
 
 ### Education
 
