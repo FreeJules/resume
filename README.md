@@ -14,7 +14,7 @@ Holberton School, San Francisco, CA, Jan 2017 – Nov 2017
 - Goal:	understanding how cloud and virtual machines work, improving troubleshooting and sysadmin skills, utilizing old hardware
 - Tools:	Debian Kernel 9.2, Xen Project Hypervisor 4.8, Ubuntu 16.04 VMs - Xenial
 
-[AirBnB project](https://github.com/FreeJules/AirBnB_clone_v4) is intended to replicate the AirBnB web application. It includes Back End, Front End, storage (file and database), Web Framework and API. I configured the infrastructure with three physical servers (two NginX web servers, one HAProxy load balancer) and subsequently deployed the application. You can see it [here](http://hbnb.julijalee.online/).
+[AirBnB project](https://github.com/FreeJules/AirBnB_clone_v4) is intended to replicate the AirBnB web application. It includes Back End, Front End, storage (file and database), Web Framework and API. I configured the infrastructure with three physical servers (two NginX web servers, one HAProxy load balancer) and subsequently deployed the [application](http://hbnb.julijalee.online/).
 - Goal:	understanding Object Oriented Programming and connecting all the individual pieces into one
 - Tools:	Linux, Python, HTML, CSS, Flask, MySQL, SQLAlchemy, NginX, HAProxy, Puppet, Fabric, bash, git
 
