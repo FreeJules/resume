@@ -1,50 +1,87 @@
 ## Julija Lee
-Livermore, CA   |   julijalee@gmail.com   |   [LinkedIn](https://www.linkedin.com/in/julija-lee-44b10746/)   |   [Twitter](https://twitter.com/LeeJulija)
+julijalee@gmail.com   |   [LinkedIn](https://www.linkedin.com/in/julija-lee-44b10746/)   |   [Twitter](https://twitter.com/LeeJulija)
 
-### Education
+### EDUCATION
 
-#### Bachelor of Science in Computer Science
-California State University East Bay, Hayward, CA, graduated Dec 2011
-#### Full Stack Software Engineer Student
-Holberton School, San Francisco, CA, Jan 2017 – Nov 2017
+#### California State University East Bay, Hayward, CA
+BS in Computer Science, awarded Dec 2011
+#### Holberton School, San Francisco, CA
+Full Stack Software Engineer, Jan 2017 – Nov 2017
 
-### Projects
+## TECHNICAL SKILLS
+Coding/Scripting: Python(Flask/Jinja, SQLAlchemy), C, SQL, HTML/CSS, JavaScript(Node/JQuery), Bash 
 
-[XenCloud project](https://www.facebook.com/HolbertonSchool/videos/1911507729167724/) is a private cloud created by utilizing old hardware and installing Xen Project bare metal hypervisor to create and run virtual machines. Virtual machines can be accessed remotely but they have to be created on site.
-- Goal:	understanding how cloud and virtual machines work, improving troubleshooting and sysadmin skills, utilizing old hardware
-- Tools:	Debian Kernel 9.2, Xen Project Hypervisor 4.8, Ubuntu 16.04 VMs - Xenial
+Technologies/Environment: Linux, Ubuntu, Git, GitHub, MySQL
 
-[AirBnB project](https://github.com/FreeJules/AirBnB_clone_v4) is intended to replicate the AirBnB web application. It includes Back End, Front End, storage (file and database), Web Framework and API. I configured the infrastructure with three physical servers (two NginX web servers, one HAProxy load balancer) and subsequently deployed the [application](http://hbnb.julijalee.online/).
-- Goal:	understanding Object Oriented Programming and connecting all the individual pieces into one
-- Tools:	Linux, Python, HTML, CSS, Flask, MySQL, SQLAlchemy, NginX, HAProxy, Puppet, Fabric, bash, git
+Systems Administration: NginX, HAProxy, Puppet, Fabric, Debian Kernel, Xen Hypervisor
 
-[Shell project](https://github.com/FreeJules/simple_shell) is intended to replicate UNIX command line interpreter. Functions used are recreated functions of the standard library.
-- Goal:	understanding of what happens when you type a command in the shell
-- Tools:	Linux, C, bash, git
+Other:  Web Stack Debugging, Web Scraping
 
-[Monty project](https://github.com/kjowong/monty) is an interpreter that compiles Monty bytecode files. 
-- Goal:	understanding the difference between stack and queue through use of linked lists
-- Tools:	Linux, C, bash, git
+### TECHNICAL PROJECTS
 
-[Printf project](https://github.com/FreeJules/printf) is intended to replicate the printf function in C.
-- Goal:	understanding variadic functions
-- Tools:	Linux, C, bash, git
+[XenCloud project](https://www.facebook.com/HolbertonSchool/videos/1911507729167724/) (Debian Kernel, Xen Hypervisor, Ubuntu Xenial)
+- Created private cloud by utilizing old hardware
+- Installed Xen Project bare metal hypervisor
+- Created and ran virtual machines
 
-Other projects included: web stack debugging, fixing existing code, configuration management with Puppet, Postmortem, Linux and Unix system programming, web scraping, Data structures and Algorithms, bash scripts
+[AirBnB project](https://github.com/FreeJules/AirBnB_clone_v4) (Python, HTML/CSS, JavaScript)
+- Configured the infrastructure (two NginX web servers, one HAProxy load balancer)
+- Developed Back End, Front End, Storage (file and database), Web Framework and RESTful API
 
-### Experience
+[Shell project](https://github.com/FreeJules/simple_shell) (C)
+- Replicated  Linux command line interpreter
+- Implemented built-in commands and handled command lines with arguments
+- Replicated functions from standard library
+- Used Valgrind to ensure there were no memory leaks
 
-#### SRE Recruiter, LinkedIn, May 2015 – Nov 2016
-- searched for candidates, conducted phone screens and technical quizzes
-- POC for Data Operations SRE team: supported 6 different managers, ran weekly meetings
-- positions included: Hadoop SRE, MySql SRE, Security SRE
+[Monty project](https://github.com/kjowong/monty) (C)
+- Created program to compile Monty bytecode files
+- Implemented stack and queue using linked list
 
-#### Sourcer, Brocade, Jan 2014 – May 2015
-- recruited for Brocade's Software Networking Group (Vyatta acquisition)
-- positions included: Linux Kernel Developer, Release Engineer, Openstack/OpenDaylight Engineer
+[Printf project](https://github.com/FreeJules/printf) (C)
+- Replicated  the printf function  of the standard library  in C
+- Applied Variadic function and function pointers
 
-#### Talent Sourcer, Modis,May 2013 – Jan 2014
-- recruited for contract positions of  Modis’ biggest healthcare client Kaiser Permanente
 
-#### Technical Sourcer/Sourcer Trainee, Duran HCP, Dec 2012 – Apr 2013
-- completed 4 week intensive Certification program and sourced for Android and iOS Developers
+### EXPERIENCE
+
+#### LinkedIn, Sunnyvale, CA
+#### SRE Recruiter, May 2015 – Nov 2016
+- Managed specialist hiring needs for Data Operations team; sourced rare candidates with unusual skill sets for newly
+created job category
+- Point of contact to six hiring managers; facilitated weekly progress meetings
+- Coordinated high-volume Employee referral Process for IT/Operations; processed 98% of referrals within target goal
+of 48 hours
+- Evaluated candidates’ System Administration and Software Engineering skills by conducting and assessing technical
+quizzes
+
+#### Brocade, San Jose, CA
+#### Technical Sourcer, Jan 2014 – May 2015
+- Sourced and implemented cloud-based CRM solution for tracking hires and active candidates at the enterprise level
+* Performed full-cycle recruiting for Linux Kernel Developers and OpenDaylight Engineers: 
+  * attended OpenDaylight Summit and Open Networking Summit
+  * conducted salary negotiations
+  * facilitated immigration procedure
+  * organized relocation assistance
+- Trained new recruiting hires within HR organization
+
+#### Modis, San Francisco, CA
+#### Talent Sourcer, May 2013 – Jan 2014
+- Made first hire for MoBoom, securing client account for Modis San Francisco
+- One of five sourcers on exclusive nationwide recruitment team for Kaiser Permanente
+
+#### Duran HCP, Campbell, CA
+#### Technical Sourcer/Sourcer Trainee, Dec 2012 – Apr 2013
+- Completed intensive Talent Acquisition  Certification program, surpassing 90% accuracy requirement
+
+#### LANGUAGES
+- English (fluent)
+- Serbian (native)
+- Spanish (elementary)
+
+#### INTERESTS
+- chess, sudoku, escape puzzles
+- animal welfare
+- acrobatics, acroyoga
+- salsa dancing
+- traveling, camping, hiking
