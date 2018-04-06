@@ -8,7 +8,7 @@ BS in Computer Science, awarded Dec 2011
 #### Holberton School, San Francisco, CA
 Full Stack Software Engineer, Jan 2017 – Nov 2017
 
-## TECHNICAL SKILLS
+### TECHNICAL SKILLS
 Coding/Scripting: Python(Flask/Jinja, SQLAlchemy), C, SQL, HTML/CSS, JavaScript(Node/JQuery), Bash 
 
 Technologies/Environment: Linux, Ubuntu, Git, GitHub, MySQL
@@ -46,7 +46,7 @@ Other:  Web Stack Debugging, Web Scraping
 ### EXPERIENCE
 
 #### LinkedIn, Sunnyvale, CA
-#### SRE Recruiter, May 2015 – Nov 2016
+SRE Recruiter, May 2015 – Nov 2016
 - Managed specialist hiring needs for Data Operations team; sourced rare candidates with unusual skill sets for newly
 created job category
 - Point of contact to six hiring managers; facilitated weekly progress meetings
@@ -56,7 +56,7 @@ of 48 hours
 quizzes
 
 #### Brocade, San Jose, CA
-#### Technical Sourcer, Jan 2014 – May 2015
+Technical Sourcer, Jan 2014 – May 2015
 - Sourced and implemented cloud-based CRM solution for tracking hires and active candidates at the enterprise level
 * Performed full-cycle recruiting for Linux Kernel Developers and OpenDaylight Engineers: 
   * attended OpenDaylight Summit and Open Networking Summit
@@ -66,12 +66,12 @@ quizzes
 - Trained new recruiting hires within HR organization
 
 #### Modis, San Francisco, CA
-#### Talent Sourcer, May 2013 – Jan 2014
+Talent Sourcer, May 2013 – Jan 2014
 - Made first hire for MoBoom, securing client account for Modis San Francisco
 - One of five sourcers on exclusive nationwide recruitment team for Kaiser Permanente
 
 #### Duran HCP, Campbell, CA
-#### Technical Sourcer/Sourcer Trainee, Dec 2012 – Apr 2013
+Technical Sourcer/Sourcer Trainee, Dec 2012 – Apr 2013
 - Completed intensive Talent Acquisition  Certification program, surpassing 90% accuracy requirement
 
 #### LANGUAGES
