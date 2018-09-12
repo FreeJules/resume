@@ -47,8 +47,8 @@ Other:  Web Stack Debugging, Web Scraping
 
 #### OSIsoft, San Leandro, CA
 Software Development Intern, Jul 2018 - Oct 2018
-- Wrote Weather Station sample in C# showing how OSIsoft SdsLibraries should be used
-- Implemented Notification System that creates an Alert when number of Storage Accounts in Azure is close to limit
+- Weather Station Sample: written in C#, demonstrates how OSIsoft SdsLibraries should be used
+- Implemented Notification System: creates an alert when number of Storage Accounts in Azure is close to limit
 
 #### LinkedIn, Sunnyvale, CA
 SRE Recruiter, May 2015 – Nov 2016
