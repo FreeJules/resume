@@ -45,6 +45,11 @@ Other:  Web Stack Debugging, Web Scraping
 
 ### EXPERIENCE
 
+#### OSIsoft, San Leandro, CA
+Software Development Intern, Jul 2018 - Oct 2018
+- Wrote Weather Station sample in C# showing how OSIsoft SdsLibraries should be used
+- Implemented Notification System that creates an Alert when number of Storage Accounts in Azure is close to limit
+
 #### LinkedIn, Sunnyvale, CA
 SRE Recruiter, May 2015 – Nov 2016
 - Point of contact to six hiring managers; facilitated weekly progress meetings
