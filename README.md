@@ -47,8 +47,6 @@ Other:  Web Stack Debugging, Web Scraping
 
 #### LinkedIn, Sunnyvale, CA
 SRE Recruiter, May 2015 – Nov 2016
-- Managed specialist hiring needs for Data Operations team; sourced rare candidates with unusual skill sets for newly
-created job category
 - Point of contact to six hiring managers; facilitated weekly progress meetings
 - Coordinated high-volume Employee referral Process for IT/Operations; processed 98% of referrals within target goal
 of 48 hours
