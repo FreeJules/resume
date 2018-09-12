@@ -6,7 +6,7 @@ julijalee@gmail.com   |   [LinkedIn](https://www.linkedin.com/in/julija-lee-44b1
 #### California State University East Bay, Hayward, CA
 BS in Computer Science, awarded Dec 2011
 #### Holberton School, San Francisco, CA
-Full Stack Software Engineer, Jan 2017 – Nov 2017
+Full Stack Software Engineer, Jan 2017 – Jan 2019
 
 ### TECHNICAL SKILLS
 Coding/Scripting: Python(Flask/Jinja, SQLAlchemy), C, SQL, HTML/CSS, JavaScript(Node/JQuery), Bash 
