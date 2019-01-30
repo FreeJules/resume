@@ -9,9 +9,9 @@ BS in Computer Science, awarded Dec 2011
 Full Stack Software Engineer, Jan 2017 – Jan 2019
 
 ### TECHNICAL SKILLS
-Coding/Scripting: Python(Flask/Jinja, SQLAlchemy), C, SQL, HTML/CSS, JavaScript(Node/JQuery), Bash 
+Coding/Scripting: C#, Python(Flask/Jinja, SQLAlchemy), C, SQL, HTML/CSS, JavaScript(Node/JQuery), Bash 
 
-Technologies/Environment: Linux, Ubuntu, Git, GitHub, MySQL
+Technologies/Environment: Visual Studio, Windows, Linux, Ubuntu, Git, GitHub, MySQL
 
 Systems Administration: NginX, HAProxy, Puppet, Fabric, Debian Kernel, Xen Hypervisor
 
