@@ -1,5 +1,5 @@
 ## Julija Lee
-julijalee@gmail.com   |   [LinkedIn](https://www.linkedin.com/in/julija-lee-44b10746/)   |   [Twitter](https://twitter.com/LeeJulija)
+lee.julija@gmail.com   |   [LinkedIn](https://www.linkedin.com/in/julija-lee-44b10746/)   |   [Twitter](https://twitter.com/LeeJulija)
 
 ### EDUCATION
 
