@@ -87,4 +87,4 @@ Technical Sourcer/Sourcer Trainee, Dec 2012 – Apr 2013
 - animal welfare
 - acrobatics, acroyoga
 - salsa dancing
-- traveling, camping, hiking
+- traveling, camping, hiking, skiing
