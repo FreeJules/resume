@@ -45,8 +45,13 @@ Other:  Web Stack Debugging, Web Scraping
 
 ### EXPERIENCE
 
+
 #### OSIsoft, San Leandro, CA
-Software Development Intern, Jul 2018 - Present
+Software Development Intern, Mar 2019 - Present
+- Working on OSIsoft Libraries
+
+#### OSIsoft, San Leandro, CA
+Software Development Intern, Jul 2018 - Mar 2019
 - Weather Station Sample: written in C#, demonstrates how OSIsoft SdsLibraries should be used
 - Implemented Notification System: creates an alert when number of Storage Accounts in Azure is close to limit
 
