@@ -47,7 +47,7 @@ Other:  Web Stack Debugging, Web Scraping
 
 
 #### OSIsoft, San Leandro, CA
-Software Development Intern, Mar 2019 - Present
+Software Developer I, Mar 2019 - Present
 - Working on OSIsoft Libraries
 
 #### OSIsoft, San Leandro, CA
